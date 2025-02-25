@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opstius.Tests", "Opstius.Tests\Opstius.Tests.csproj", "{157E71B3-0B1F-45B1-89CE-70DBD032DE92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opstius.Generator.MVVM", "Opstius.Generator.MVVM\Opstius.Generator.MVVM.csproj", "{D24824AB-FB81-45F6-B424-5A1F28435ECF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{157E71B3-0B1F-45B1-89CE-70DBD032DE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{157E71B3-0B1F-45B1-89CE-70DBD032DE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{157E71B3-0B1F-45B1-89CE-70DBD032DE92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D24824AB-FB81-45F6-B424-5A1F28435ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24824AB-FB81-45F6-B424-5A1F28435ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24824AB-FB81-45F6-B424-5A1F28435ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24824AB-FB81-45F6-B424-5A1F28435ECF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
